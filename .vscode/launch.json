@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Point",
+            "request": "launch",
+            "mainClass": "Coordinates.Point",
+            "projectName": "OPP_77516d76"
+        },
+        {
+            "type": "java",
+            "name": "personMain",
+            "request": "launch",
+            "mainClass": "PersonDetails.personMain",
+            "projectName": "OPP_77516d76"
+        },
+        {
+            "type": "java",
+            "name": "dateMain",
+            "request": "launch",
+            "mainClass": "Date.dateMain",
+            "projectName": "OPP_77516d76"
+        },
+        {
+            "type": "java",
+            "name": "employeeMain",
+            "request": "launch",
+            "mainClass": "Employee.employeeMain",
+            "projectName": "OPP_77516d76"
+        },
+        {
+            "type": "java",
+            "name": "triangleMain",
+            "request": "launch",
+            "mainClass": "Triangle.triangleMain",
+            "projectName": "OPP_77516d76"
+        },
+        {
+            "type": "java",
+            "name": "carMain",
+            "request": "launch",
+            "mainClass": "Car.carMain",
+            "projectName": "OPP_77516d76"
+        },
+        {
+            "type": "java",
             "name": "atmMain",
             "request": "launch",
             "mainClass": "ATM.atmMain",

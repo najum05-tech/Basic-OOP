@@ -72,6 +72,7 @@ public static void main(String[] args) {
     ATM account1 = new ATM(accNo1, accHolder1, balance1);
     
     System.out.println("\n----------------Account 2 Details------------------");
+    
     System.out.print("Enter Account Number for account2: ");
     int accNo2 = input.nextInt();
     input.nextLine(); // Consume newline
